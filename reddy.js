@@ -1,3 +1,7 @@
+console.log("Hello World")
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+
 console.log("Hello world");
 console.log('Avinash Reddy');
 console.log('chalapathi college near guntur lam ')
@@ -55,40 +59,14 @@ console.log(l[-6])
 
 
 g="he is   good boy"
-console.log(g) 
+console.log(g)
 
 d= 10 + "volot"
 console.log(d)
-  
-  
-break;
-    }
-}
-    
-    
-    
-    let firstname="avinashreddy"
-  let lastname="i"
+
+let firstname="avinashreddy"
+  let lastname="i"  
   console.log(firstname,lastname)
   
   
- co=["avinash redey","friend" , "school" , "college", "b-tech"]
-  console.log(co)
-  let f=10
-if (f<12) 
-    console.log(f)
-    
-let list = [1,2,3,4,5,6,7,8]
-
-for (let i=0; i < list.length;i++) {
-    if(list[i]  === 3) {
-        continue;
-    }
-   let j = 50;
-    const k=100;
-    console.log(list[i]);
-    console.log(j);
-    console.log(k);
-    
-    if (list[i] > 5) {
-           
+ 
